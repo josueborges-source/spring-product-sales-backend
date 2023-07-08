@@ -1,4 +1,4 @@
-# 🚀 Backend de Controle de Vendas de Produtos com Spring
+# 🌟 Backend de Controle de Vendas de Produtos com Spring
 
 Uma API RESTful backend construída com Spring para um eficiente gerenciamento de vendas de produtos. Este projeto oferece recursos abrangentes para lidar com o ciclo completo de vendas, desde o cadastro de produtos até a conclusão das transações.
 
